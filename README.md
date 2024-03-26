@@ -1,4 +1,4 @@
-### <img src="giphy.gif" width="15%"> Hi there! I'm Keo 👋
+## <img src="giphy.gif" width="15%"> Hi there! I'm Keo 👋
 <br/>
 
 In 2020, I had my first contact with the programming world through ![Python](https://img.shields.io/badge/Python%20-%20white?style=flat&logo=python&logoColor=white&color=%233776AB). Since then, I have continued to evolve and enhance my skills, learning new concepts and technologies along the way.

@@ -22,7 +22,3 @@ In 2022, I had the opportunity to gain my **first professional experience develo
 ![Git](https://img.shields.io/badge/Git%20-%20white?style=flat&logo=git&logoColor=white&color=%23F05032)
 ![VisualCode](https://img.shields.io/badge/VisualStudio%20-%20black?style=flat&logo=visualstudio&logoColor=white&color=%23512BD4)
 
-### I'm currently working on
-
-### Some of my past projects include
-
